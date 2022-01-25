@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo.deps.json
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo.dll
+/home/tito/Desktop/C Sharp Learn/AddTwo/bin/Debug/netcoreapp3.1/AddTwo.pdb
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.dll
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.pdb
+/home/tito/Desktop/C Sharp Learn/AddTwo/obj/Debug/netcoreapp3.1/AddTwo.genruntimeconfig.cache

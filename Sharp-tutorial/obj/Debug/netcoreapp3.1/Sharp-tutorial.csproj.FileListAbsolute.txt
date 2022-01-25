@@ -1,0 +1,13 @@
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.csprojAssemblyReference.cache
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.AssemblyInfoInputs.cache
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.AssemblyInfo.cs
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial.deps.json
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial.runtimeconfig.json
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial.runtimeconfig.dev.json
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial.dll
+/home/tito/Desktop/Sharp-tutorial/bin/Debug/netcoreapp3.1/Sharp-tutorial.pdb
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.dll
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.pdb
+/home/tito/Desktop/Sharp-tutorial/obj/Debug/netcoreapp3.1/Sharp-tutorial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem.deps.json
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem.dll
+/home/tito/Desktop/C Sharp Learn/QuotientRem/bin/Debug/netcoreapp3.1/QuotientRem.pdb
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.dll
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.pdb
+/home/tito/Desktop/C Sharp Learn/QuotientRem/obj/Debug/netcoreapp3.1/QuotientRem.genruntimeconfig.cache
