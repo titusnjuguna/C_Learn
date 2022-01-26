@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle.deps.json
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle.dll
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/bin/Debug/netcoreapp3.1/AreaRectangle.pdb
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.dll
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.pdb
+/home/tito/Desktop/C Sharp Learn/AreaRectangle/obj/Debug/netcoreapp3.1/AreaRectangle.genruntimeconfig.cache
