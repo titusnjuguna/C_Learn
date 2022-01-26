@@ -33,6 +33,6 @@ dotnet new console -o (remove the bracket and add project name)
 - Change to Project folder
 ## Run Program
 
-````bash
+```bash
   dotnet run
 ```
