@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average.deps.json
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average.dll
+/home/tito/Desktop/C Sharp Learn/Average/bin/Debug/netcoreapp3.1/Average.pdb
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.dll
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.pdb
+/home/tito/Desktop/C Sharp Learn/Average/obj/Debug/netcoreapp3.1/Average.genruntimeconfig.cache
