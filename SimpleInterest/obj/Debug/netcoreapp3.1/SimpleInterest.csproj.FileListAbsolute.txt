@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest.deps.json
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest.dll
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/bin/Debug/netcoreapp3.1/SimpleInterest.pdb
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.dll
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.pdb
+/home/tito/Desktop/C Sharp Learn/SimpleInterest/obj/Debug/netcoreapp3.1/SimpleInterest.genruntimeconfig.cache
