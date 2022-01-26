@@ -23,4 +23,16 @@ In this tutorial, I will assume that you already have a VSCode installed. If you
   sudo apt-get install -y dotnet-sdk-6.0
 
 ```
+## Create .net project
+- Create A working directory in your preffered location
+-  Open the working directory on Vscode
+-  Create dotnet project inside your working directory on VScode terminal by running this command
+```bash
+dotnet new console -o (remove the bracket and add project name)
+```
+- Change to Project folder
+## Run Program
 
+````bash
+  dotnet run
+```
