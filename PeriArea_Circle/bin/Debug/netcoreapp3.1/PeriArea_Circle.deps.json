@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PeriArea_Circle/1.0.0": {
+        "runtime": {
+          "PeriArea_Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeriArea_Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

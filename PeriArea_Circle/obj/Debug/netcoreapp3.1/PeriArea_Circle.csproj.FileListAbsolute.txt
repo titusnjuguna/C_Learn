@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle.deps.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle.dll
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/bin/Debug/netcoreapp3.1/PeriArea_Circle.pdb
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.dll
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.pdb
+/home/tito/Desktop/C Sharp Learn/PeriArea_Circle/obj/Debug/netcoreapp3.1/PeriArea_Circle.genruntimeconfig.cache
