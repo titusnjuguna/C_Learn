@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power.deps.json
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power.dll
+/home/tito/Desktop/C Sharp Learn/Power/bin/Debug/netcoreapp3.1/Power.pdb
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.dll
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.pdb
+/home/tito/Desktop/C Sharp Learn/Power/obj/Debug/netcoreapp3.1/Power.genruntimeconfig.cache
