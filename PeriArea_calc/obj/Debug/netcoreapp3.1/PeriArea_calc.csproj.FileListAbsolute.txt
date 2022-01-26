@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc.deps.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc.dll
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/bin/Debug/netcoreapp3.1/PeriArea_calc.pdb
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.dll
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.pdb
+/home/tito/Desktop/C Sharp Learn/PeriArea_calc/obj/Debug/netcoreapp3.1/PeriArea_calc.genruntimeconfig.cache
