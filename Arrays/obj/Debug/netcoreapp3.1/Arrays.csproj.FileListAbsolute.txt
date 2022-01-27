@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/home/tito/Desktop/C Sharp Learn/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/home/tito/Desktop/C Sharp Learn/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache
