@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word.deps.json
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word.dll
+/home/tito/Desktop/C Sharp Learn/Count_Word/bin/Debug/netcoreapp3.1/Count_Word.pdb
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.dll
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.pdb
+/home/tito/Desktop/C Sharp Learn/Count_Word/obj/Debug/netcoreapp3.1/Count_Word.genruntimeconfig.cache
