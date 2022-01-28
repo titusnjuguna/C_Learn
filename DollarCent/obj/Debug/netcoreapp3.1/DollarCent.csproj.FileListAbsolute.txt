@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent.deps.json
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent.dll
+/home/tito/Desktop/C Sharp Learn/DollarCent/bin/Debug/netcoreapp3.1/DollarCent.pdb
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.dll
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.pdb
+/home/tito/Desktop/C Sharp Learn/DollarCent/obj/Debug/netcoreapp3.1/DollarCent.genruntimeconfig.cache
