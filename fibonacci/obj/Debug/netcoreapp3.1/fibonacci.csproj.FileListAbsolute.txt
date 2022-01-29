@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci.deps.json
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci.dll
+/home/tito/Desktop/C Sharp Learn/fibonacci/bin/Debug/netcoreapp3.1/fibonacci.pdb
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.dll
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.pdb
+/home/tito/Desktop/C Sharp Learn/fibonacci/obj/Debug/netcoreapp3.1/fibonacci.genruntimeconfig.cache

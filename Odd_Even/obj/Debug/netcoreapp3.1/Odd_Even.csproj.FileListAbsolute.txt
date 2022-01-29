@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even.deps.json
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even.dll
+/home/tito/Desktop/C Sharp Learn/Odd_Even/bin/Debug/netcoreapp3.1/Odd_Even.pdb
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.dll
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.pdb
+/home/tito/Desktop/C Sharp Learn/Odd_Even/obj/Debug/netcoreapp3.1/Odd_Even.genruntimeconfig.cache
