@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average.deps.json
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average.dll
+/home/tito/Desktop/C Sharp Learn/Above_average/bin/Debug/netcoreapp3.1/Above_average.pdb
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.dll
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.pdb
+/home/tito/Desktop/C Sharp Learn/Above_average/obj/Debug/netcoreapp3.1/Above_average.genruntimeconfig.cache
