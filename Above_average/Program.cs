@@ -2,6 +2,7 @@
 
 namespace Above_average
 {
+
     class Program
     {
         static void Main(string[] args)

@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static.deps.json
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static.dll
+/home/tito/Desktop/C Sharp Learn/Static/bin/Debug/netcoreapp3.1/Static.pdb
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.dll
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.pdb
+/home/tito/Desktop/C Sharp Learn/Static/obj/Debug/netcoreapp3.1/Static.genruntimeconfig.cache

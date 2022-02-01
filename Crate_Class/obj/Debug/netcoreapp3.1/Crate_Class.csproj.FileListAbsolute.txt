@@ -1,0 +1,13 @@
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.csprojAssemblyReference.cache
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.AssemblyInfoInputs.cache
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.AssemblyInfo.cs
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.csproj.CoreCompileInputs.cache
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class.deps.json
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class.runtimeconfig.json
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class.runtimeconfig.dev.json
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class.dll
+/home/tito/Desktop/C Sharp Learn/Crate_Class/bin/Debug/netcoreapp3.1/Crate_Class.pdb
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.dll
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.pdb
+/home/tito/Desktop/C Sharp Learn/Crate_Class/obj/Debug/netcoreapp3.1/Crate_Class.genruntimeconfig.cache
