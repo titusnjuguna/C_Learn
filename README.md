@@ -33,7 +33,7 @@ Switch the branch from main to master
 dotnet new console -o (remove the bracket and add project name)
 ```
 - Change to Project folder
-## Run Program
+## Run the Program
 
 ```bash
   dotnet run
